@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mail1.example.com
+mx: mail1.example.com
+max_age: 86400
